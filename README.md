@@ -1,6 +1,7 @@
 # Smart Claims Processing Platform
 
 This project is automatically generated.
+To view the results go to testcase1, testcase2, testcase3
 
 ## Installation
 
